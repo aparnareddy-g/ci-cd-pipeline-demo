@@ -1,2 +1,3 @@
+[![CI Pipeline Demo](https://github.com/aparnareddy-g/ci-cd-pipeline-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/aparnareddy-g/ci-cd-pipeline-demo/actions/workflows/ci.yml)
 # ci-cd-pipeline-demo
 Hello, CI/CD pipeline demo!
